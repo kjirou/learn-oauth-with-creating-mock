@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kjirou/learn-oauth-with-creating-mock/issues"
   },
-  "homepage": "https://github.com/kjirou/learn-oauth-with-creating-mock#readme"
+  "homepage": "https://github.com/kjirou/learn-oauth-with-creating-mock#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
