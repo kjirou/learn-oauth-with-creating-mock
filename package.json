@@ -1,0 +1,20 @@
+{
+  "name": "learn-oauth-with-creating-mock",
+  "version": "1.0.0",
+  "description": "Learn OAuth with creating a mock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/learn-oauth-with-creating-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjirou/learn-oauth-with-creating-mock/issues"
+  },
+  "homepage": "https://github.com/kjirou/learn-oauth-with-creating-mock#readme"
+}
